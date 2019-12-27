@@ -1,3 +1,4 @@
+/**************** TAG SELECTORS ****************/
 body {
     background-color: #DEFCF9;
 }
@@ -16,3 +17,11 @@ hr {
     border-width: 7px;
     width: 7%;
 }
+
+/**************** CLASS SELECTORS ****************/
+
+.profile {
+    border-radius: 20%;
+}
+
+/**************** ID SELECTORS ****************/
