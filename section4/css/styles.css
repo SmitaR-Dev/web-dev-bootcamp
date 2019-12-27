@@ -11,8 +11,8 @@ h3 {
 }
 
 hr {
-    border-style: dotted none none none;
     border-color: gray;
+    border-style: dotted none none none;
     border-width: 7px;
     width: 7%;
 }
